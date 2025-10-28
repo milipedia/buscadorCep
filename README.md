@@ -15,13 +15,13 @@ O programa também gera um **arquivo `.json`** com os dados retornados, facilita
 ---
 
 ## 🧩 Estrutura do Projeto
-
+```
 📦 src
 ┣ 📜 ConsultaCep.java → Faz a requisição à API ViaCEP
 ┣ 📜 Endereco.java → Modelo que representa os dados do endereço
 ┣ 📜 GeradorArquivo.java → Responsável por salvar o JSON gerado
 ┗ 📜 Main.java → Classe principal que executa o programa
-
+```
 ---
 
 ## ⚙️ Tecnologias Utilizadas
@@ -33,7 +33,7 @@ O programa também gera um **arquivo `.json`** com os dados retornados, facilita
 ---
 
 ## 💻 Como Executar
-
+```
 1. Clone este repositório:
    ```
    git clone https://github.com/seuusuario/BuscadorCEP.git
@@ -46,7 +46,8 @@ Execute o arquivo Main.java.
 Digite um CEP válido quando solicitado (ex: 01001000).
 
 O programa exibirá as informações do endereço e criará um arquivo .json com os dados.
-
+```
+```
 📄 Exemplo de Saída
 
 Digite um número de CEP para consulta:
@@ -59,6 +60,7 @@ Localidade: São Paulo
 UF: SP
 
 Arquivo JSON gerado com sucesso!
+```
 🎯 Objetivo Educacional
 Este projeto foi desenvolvido como parte da Formação ONE (Oracle Next Education) em parceria com a Alura, com o objetivo de praticar:
 
