@@ -36,7 +36,7 @@ O programa também gera um **arquivo `.json`** com os dados retornados, facilita
 ```
 1. Clone este repositório:
  
-   git clone https://github.com/seuusuario/BuscadorCEP.git
+git clone https://github.com/seuusuario/BuscadorCEP.git
 Abra o projeto em sua IDE (IntelliJ, Eclipse, VSCode, etc.).
 
 Certifique-se de ter a biblioteca GSON adicionada ao classpath.
