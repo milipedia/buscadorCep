@@ -35,7 +35,7 @@ O programa também gera um **arquivo `.json`** com os dados retornados, facilita
 ## 💻 Como Executar
 ```
 1. Clone este repositório:
-   ```
+ 
    git clone https://github.com/seuusuario/BuscadorCEP.git
 Abra o projeto em sua IDE (IntelliJ, Eclipse, VSCode, etc.).
 
